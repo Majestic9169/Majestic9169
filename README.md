@@ -99,7 +99,8 @@ Building robust and scalable software while following best practices in coding a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic9169&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-majestic9169-tegan-jains-projects.vercel.app?user=Majestic9169&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a></div>
+  <img src="https://streak-stats.demolab.com?user=Majestic9169&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
