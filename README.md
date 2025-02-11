@@ -100,3 +100,7 @@ Building robust and scalable software while following best practices in coding a
 <img src="https://raw.githubusercontent.com/Majestic9169/Majestic9169/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+Generate using [Profile Readme Generator](https://profile-readme-generator.com/)
