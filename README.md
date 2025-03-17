@@ -3,7 +3,6 @@
   <div align="right">
     <pre align="left">
       <br/>
-      <br/>
       code // cube // ctfs              
       <br/>
     </pre>
