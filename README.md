@@ -71,25 +71,6 @@
 
 ###
 
-## 🔍 Interests:
-
-### 🛡️ Cybersecurity
-I love CTF challenges, especially in:
-- 🔐 Cryptography
-- 🌐 Web Security
-- 🔄 Reverse Engineering
-- 🕵️‍♂️ Forensics/DFIR
-
-I participate with my team [kossiitkgp](https://kossiitkgp.ac.in)
-
-### 💻 Systems Programming
-I enjoy understanding how things work under the hood. I have so many ideas for low-level projects I want to make!
-
-### 👨‍💻 Software Engineering
-Building robust and scalable software while following best practices in coding and design is something I strive for. 
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Majestic9169&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Majestic9169&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
